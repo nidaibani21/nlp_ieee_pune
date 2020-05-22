@@ -2,7 +2,7 @@
 Nlp project for covid
 
 ## Dataset Description
-The official site of government, `Data.Gov.in` was used to collect data on KCC queries. Dataset floder contains the kcc queries of all districts of maharashtra including all three seasions.
+The official site of government, [Data.Gov.in](https://data.gov.in/) was used to collect data on KCC queries. Dataset floder contains the kcc queries of all districts of maharashtra including all three seasions.
 
 Following are the description of all attributes present in the dataset: 
 - Sector – Contains the name of agriculture sector to which query belongs
